@@ -61,7 +61,7 @@ dependencies {
     // 디버깅용 Compose 툴링
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
-
+    //token 문제가 있나
     // Glide (★★ 빠져 있어서 오류 발생)
     implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation("com.github.bumptech.glide:compiler:4.16.0")

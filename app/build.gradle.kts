@@ -64,7 +64,7 @@ dependencies {
 
     // Glide (★★ 빠져 있어서 오류 발생)
     implementation("com.github.bumptech.glide:glide:4.16.0")
-    kapt("com.github.bumptech.glide:compiler:4.16.0")
+    implementation("com.github.bumptech.glide:compiler:4.16.0")
 
     // ✅ 기존 라이브러리들
     implementation("androidx.core:core-splashscreen:1.0.1")
